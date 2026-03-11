@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to Stackable.
+Welcome to Stackable...more to come, stay tuned! 🤫
 
 ---
 [@stackable-labs/embeddables](https://www.npmjs.com/package/@stackable-labs/embeddables)
