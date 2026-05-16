@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to Stackable...more to come, stay tuned!
+Welcome to Stackable Labs...more to come, stay tuned!
 
 [Stackable Labs](https://stackablelabs.com)
 
