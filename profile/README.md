@@ -9,8 +9,9 @@ Welcome to Stackable Labs...more to come, stay tuned!
 [Stackable Labs :. Developer Docs](https://developers.stackablelabs.com)
 
 Stackable provides the first AI-powered open developer platform for building rich, branded, interactive experiences on top of Zendesk Messenger.
-
 **_Customer experience has entered the chat._**
+
+[![Stackable Labs](https://stackablelabs.com/press/2026-05-14/stackable-launch/opengraph-image "Stackable Labs")](https://stackablelabs.com/press/2026-05-14/stackable-launch)
 
 ---
 [@stackable-labs/embeddables](https://www.npmjs.com/package/@stackable-labs/embeddables)
