@@ -1,6 +1,16 @@
 ## Hi there 👋
 
-Welcome to Stackable...more to come, stay tuned! 🤫
+Welcome to Stackable...more to come, stay tuned!
+
+[Stackable Labs](https://stackablelabs.com)
+
+[Stackable Labs :. Waitlist](https://stackablelabs.com/waitlist)
+
+[Stackable Labs :. Developer Docs](https://developers.stackablelabs.com)
+
+Stackable provides the first AI-powered open developer platform for building rich, branded, interactive experiences on top of Zendesk Messenger.
+
+**_Customer experience has entered the chat._**
 
 ---
 [@stackable-labs/embeddables](https://www.npmjs.com/package/@stackable-labs/embeddables)
